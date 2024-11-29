@@ -57,4 +57,4 @@ This repository serves as both a personal reference and a demonstration of compu
 ---
 ⭐️ If you find this repository helpful, please consider giving it a star!
 
-![GitHub stars](https://img.shields.io/github/stars/[username]/cs-fundamentals?style=social)
+![GitHub stars](https://img.shields.io/github/stars/arbelaezch/cs-fundamentals?style=social)
