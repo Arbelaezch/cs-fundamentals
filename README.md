@@ -14,6 +14,7 @@ This repository serves as both a personal reference and a demonstration of compu
 ## 🔍 What's Inside
 
 ### Data Structures
+- Arrays
 - Trees (Binary, AVL, Red-Black)
 - Graphs (Directed, Undirected)
 - Hash Tables

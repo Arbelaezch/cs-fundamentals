@@ -68,3 +68,6 @@ A queue is a First-In-First-Out (FIFO) data structure with two primary operation
 | Size              | O(1)      | O(1)        | O(1) |
 
 *Amortized time complexity for array-based implementations
+
+## Examples
+See [examples.py](examples.py) for detailed usage demonstrations of stack and queue implementations.
